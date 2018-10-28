@@ -1,0 +1,2 @@
+# AC6SS
+Angular CLI 6 SQLITE STARTER
